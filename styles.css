@@ -6,7 +6,7 @@
 }
 
 body {
-    max-width: 1550px;
+    max-width: 1440px;
     min-width: 375px;
     min-height: 100vh;
 }
@@ -23,7 +23,7 @@ body {
     width: 900px;
     display: flex;
     flex-wrap: wrap;
-    margin: 30px auto ;
+    margin: auto;
     border-radius: 15px;
 }
 .Card {
